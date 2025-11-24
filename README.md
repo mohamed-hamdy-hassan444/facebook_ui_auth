@@ -3,16 +3,6 @@ A clean and modern Flutter UI that replicates Facebook-style Authentication scre
 
 This project focuses on **UI only** and uses a **clean folder structure** with reusable widgets.
 
----
-
-## 📸 Screenshots  
-> Add your screenshots here after taking them from the emulator  
-Example:  
-```
-assets/screens/login.png  
-assets/screens/signup.png  
-assets/screens/find_account.png  
-```
 
 ---
 
